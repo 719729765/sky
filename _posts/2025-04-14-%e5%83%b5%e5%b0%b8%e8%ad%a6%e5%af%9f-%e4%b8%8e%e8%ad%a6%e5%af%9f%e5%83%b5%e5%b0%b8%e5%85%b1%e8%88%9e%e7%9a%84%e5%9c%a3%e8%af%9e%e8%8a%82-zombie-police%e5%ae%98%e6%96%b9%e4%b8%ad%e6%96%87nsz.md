@@ -1,0 +1,19 @@
+---
+title: "僵尸警察 与警察僵尸共舞的圣诞节 Zombie Police|官方中文|NSZ|原版|"
+date: 2025-04-14
+tags: ["僵尸", "推理"]
+categories: ["Switch中文"]
+excerpt: "新手人类刑警和精力充沛的僵尸刑警，这对不搭调的搭档一起处理神秘案件！ 在这款日本推理 ADV 中，僵尸的超能力和人类的推理技巧将帮助你找到真相！ 系统要求:19.0.1"
+layout: post
+---
+
+<img class="aligncenter size-full wp-image-126291" src="https://sky.sfcrom.com/wp-content/uploads/2025/04/2025041409463932.webp" alt="" width="616" height="353" />
+
+新手人类刑警和精力充沛的僵尸刑警，这对不搭调的搭档一起处理神秘案件！
+
+在这款日本推理 ADV 中，僵尸的超能力和人类的推理技巧将帮助你找到真相！
+
+系统要求:19.0.1
+
+---
+📖 **下载地址/原文地址：** 本文最初发布于我的博客网站：[https://sky.sfcrom.com/2025/04/126284](https://sky.sfcrom.com/2025/04/126284)

@@ -1,0 +1,15 @@
+---
+title: "小小贴纸铺 Sticky Business|官方中文|本体+1.0.4升补+1DLC|NSZ|原版|"
+date: 2024-07-31
+tags: []
+categories: ["Switch中文"]
+excerpt: "小小贴纸铺 Sticky Business 创建、打包和售卖你自己的独特贴纸作品！ 你想要收藏一套猫猫贴纸？开一家女巫主题的店铺？还是往你的所有作品上加一张呆呆脸？ &nbsp; 搭配组合数十种元素来创建属于你自己的藏品，并将它们卖给与你志趣相投的人。不同的贴纸会吸引不同的顾客！你还可以添加一些闪光&hellip;"
+layout: post
+---
+
+ <p><img src="https://sky.sfcrom.com/wp-content/uploads/2024/07/20240731_66aa5f8f1cb9d.webp" alt="小小贴纸铺 Sticky Business|官方中文|本体+1.0.4升补+1DLC|NSZ|原版|" style="display:block; margin-left:auto; margin-right:auto;width:100%;height:auto;" /><br /> <img src="https://sky.sfcrom.com/wp-content/uploads/2024/07/20240731_66aa5f8f54030.webp" alt="小小贴纸铺 Sticky Business|官方中文|本体+1.0.4升补+1DLC|NSZ|原版|" style="display:block; margin-left:auto; margin-right:auto;width:100%;height:auto;" /><br /> <img src="https://sky.sfcrom.com/wp-content/uploads/2024/07/20240731_66aa5f8f87920.webp" alt="小小贴纸铺 Sticky Business|官方中文|本体+1.0.4升补+1DLC|NSZ|原版|" style="display:block; margin-left:auto; margin-right:auto;width:100%;height:auto;" /><br /> <img src="https://sky.sfcrom.com/wp-content/uploads/2024/07/20240731_66aa5f8fbc987.webp" alt="小小贴纸铺 Sticky Business|官方中文|本体+1.0.4升补+1DLC|NSZ|原版|" style="display:block; margin-left:auto; margin-right:auto;width:100%;height:auto;" /><br /> <img src="https://sky.sfcrom.com/wp-content/uploads/2024/07/20240731_66aa5f8fec45e.webp" alt="小小贴纸铺 Sticky Business|官方中文|本体+1.0.4升补+1DLC|NSZ|原版|" style="display:block; margin-left:auto; margin-right:auto;width:100%;height:auto;" /><br /> <img src="https://sky.sfcrom.com/wp-content/uploads/2024/07/20240731_66aa5f90260b4.webp" alt="小小贴纸铺 Sticky Business|官方中文|本体+1.0.4升补+1DLC|NSZ|原版|" style="display:block; margin-left:auto; margin-right:auto;width:100%;height:auto;" /><br /> <img src="https://sky.sfcrom.com/wp-content/uploads/2024/07/20240731_66aa5f9053baf.webp" alt="小小贴纸铺 Sticky Business|官方中文|本体+1.0.4升补+1DLC|NSZ|原版|" style="display:block; margin-left:auto; margin-right:auto;width:100%;height:auto;" /><br /> <img src="https://sky.sfcrom.com/wp-content/uploads/2024/07/20240731_66aa5f9086660.webp" alt="小小贴纸铺 Sticky Business|官方中文|本体+1.0.4升补+1DLC|NSZ|原版|" style="display:block; margin-left:auto; margin-right:auto;width:100%;height:auto;" /><br /> <img src="https://sky.sfcrom.com/wp-content/uploads/2024/07/20240731_66aa5f90bd167.webp" alt="小小贴纸铺 Sticky Business|官方中文|本体+1.0.4升补+1DLC|NSZ|原版|" style="display:block; margin-left:auto; margin-right:auto;width:100%;height:auto;" /></p> <p>小小贴纸铺 Sticky Business</p> <p>创建、打包和售卖你自己的独特贴纸作品！</p> <p>你想要收藏一套猫猫贴纸？开一家女巫主题的店铺？还是往你的所有作品上加一张呆呆脸？</p> <p>&nbsp;</p> <p>搭配组合数十种元素来创建属于你自己的藏品，并将它们卖给与你志趣相投的人。不同的贴纸会吸引不同的顾客！你还可以添加一些闪光或全息特效来让它们变得更加特别！</p> <p>&nbsp;</p> <p>一边打包订单，一边听顾客在每次购买贴纸时向你讲述更多有关他们的故事！</p> <p>特色<br /> 发挥你的创造力，用数千种可能的组合打造出世上最可爱的贴纸！<br /> 通过完美的贴纸单排版来优化你的贴纸生产，尽可能地最大化利用你的资源！<br /> 一边打包订单一边听顾客讲述他们的生活！<br /> 购买升级来获取更多贴纸图案和衬托特效，让你的店铺变得更加令人兴奋！<br /> 往你的订单中塞入糖果并使用自定义的包装材料，让顾客的满意度更上一层楼！</p> <p>&nbsp;</p> <p>&nbsp;</p> <p><strong>系统要求:18.1.0</strong></p> <p><strong>解压密码:laoquzhang.com</strong></p> <p><strong>[content_hide]
+链接1
+[/content_hide]
+
+---
+📖 **下载地址/原文地址：** 本文最初发布于我的博客网站：[https://sky.sfcrom.com/2024/07/60365](https://sky.sfcrom.com/2024/07/60365)
