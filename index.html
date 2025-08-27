@@ -1,74 +1,47 @@
 ---
 layout: default
-pagination:            # 可选页面级覆盖配置
-  enabled: true
-  per_page: 30
-  permalink: '/page:num'
----
 
-<style>
-/* 背景容器样式 */
+paginate: true
+---
+ <style>
+/* 为容器添加白色背景和红色外框 */
 .bg-overlay {
   position: relative;
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255, 255, 255, 0.8); /* 白色背景，带透明度 */
   background-size: cover;
   background-position: center;
-  border: 2px solid red;
+  border: 2px solid red; /* 红色外框 */
   padding: 20px;
   overflow: hidden;
-  border-radius: 10px;
+  border-radius: 10px; /* 可选：为外框添加圆角效果 */
 }
 
-/* 文字样式 */
+/* 确保文字内容清晰 */
 .content {
   position: relative;
   z-index: 10;
-  color: #333;
+  color: #333; /* 黑色文字 */
   font-size: 1.2rem;
 }
-
-.pagination {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-top: 2rem;
-  gap: 1rem;
-  font-weight: bold;
-}
-
-.pagination a {
-  color: #007BFF;
-  text-decoration: none;
-  padding: 0.5rem 1rem;
-  border: 1px solid #007BFF;
-  border-radius: 5px;
-}
-
-.pagination span {
-  color: #555;
-}
-
-.link-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-}
-
-.link-card {
-  flex: 1 1 180px;
-  background: #f8f8f8;
-  border: 1px solid #ddd;
-  border-radius: 6px;
-  padding: 12px;
-  text-align: center;
-}
-.link-card a {
-  font-weight: bold;
-  text-decoration: none;
-  color: #333;
-}
-</style>
-
+    .pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 2rem;
+      gap: 1rem;
+      font-weight: bold;
+    }
+    .pagination a {
+      color: #007BFF;
+      text-decoration: none;
+      padding: 0.5rem 1rem;
+      border: 1px solid #007BFF;
+      border-radius: 5px;
+    }
+    .pagination span {
+      color: #555;
+    }
+  </style>
 <h1>我的项目导航页</h1>
 
 <div class="section">
@@ -170,10 +143,6 @@ document.addEventListener("DOMContentLoaded", function () {
   document.getElementById("view-number").textContent = totalViews.toLocaleString(); // 加千分位
 });
 </script>
-<p style="text-align: center; font-size: 0.95rem; color: #888;">
-  自站点上线以来，每一次点击，都是一次与新老游戏的重逢——感谢每位默默阅读的你。
-</p>
-
 <p style="text-align: center; font-size: 0.95rem; color: #888;">
   自站点上线以来，每一次点击，都是一次与新老游戏的重逢——感谢每位默默阅读的你。
 </p>
