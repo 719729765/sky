@@ -1,6 +1,6 @@
 ---
 layout: default
-pagination:            # v2 用法（不是 paginate: 30）
+pagination:            # 可选页面级覆盖配置
   enabled: true
   per_page: 30
   permalink: '/page:num'
@@ -149,7 +149,7 @@ pagination:            # v2 用法（不是 paginate: 30）
   {% endif %}
 </div>
 
-<!-- 按年份归档（改进版，兼容大站点） -->
+<!-- 按年份归档 -->
 <h2>📅 按年份归档</h2>
 <ul>
   {% assign years = site.posts | group_by_exp:"post","post.date | date: '%Y'" %}
