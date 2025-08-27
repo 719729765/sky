@@ -1,47 +1,71 @@
 ---
 layout: default
-
-paginate: true
+paginate: 30
 ---
- <style>
-/* 为容器添加白色背景和红色外框 */
+
+<style>
+/* 背景容器样式 */
 .bg-overlay {
   position: relative;
-  background-color: rgba(255, 255, 255, 0.8); /* 白色背景，带透明度 */
+  background-color: rgba(255, 255, 255, 0.8);
   background-size: cover;
   background-position: center;
-  border: 2px solid red; /* 红色外框 */
+  border: 2px solid red;
   padding: 20px;
   overflow: hidden;
-  border-radius: 10px; /* 可选：为外框添加圆角效果 */
+  border-radius: 10px;
 }
 
-/* 确保文字内容清晰 */
+/* 文字样式 */
 .content {
   position: relative;
   z-index: 10;
-  color: #333; /* 黑色文字 */
+  color: #333;
   font-size: 1.2rem;
 }
-    .pagination {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      margin-top: 2rem;
-      gap: 1rem;
-      font-weight: bold;
-    }
-    .pagination a {
-      color: #007BFF;
-      text-decoration: none;
-      padding: 0.5rem 1rem;
-      border: 1px solid #007BFF;
-      border-radius: 5px;
-    }
-    .pagination span {
-      color: #555;
-    }
-  </style>
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  gap: 1rem;
+  font-weight: bold;
+}
+
+.pagination a {
+  color: #007BFF;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border: 1px solid #007BFF;
+  border-radius: 5px;
+}
+
+.pagination span {
+  color: #555;
+}
+
+.link-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.link-card {
+  flex: 1 1 180px;
+  background: #f8f8f8;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 12px;
+  text-align: center;
+}
+.link-card a {
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+</style>
+
 <h1>我的项目导航页</h1>
 
 <div class="section">
@@ -104,7 +128,6 @@ paginate: true
     <ul>
       {% for post in paginator.posts %}
         <li>
-          <!-- 添加 target="_blank" 使链接在新标签页打开 -->
           <h3><a href="{{ post.url | relative_url }}" target="_blank">{{ post.title }}</a></h3>
         </li>
       {% endfor %}
@@ -112,37 +135,45 @@ paginate: true
   </div>
 </div>
 
-<!-- 分页链接 -->
+<!-- 分页导航 -->
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; 上一页</a>
   {% endif %}
-
   <span>第 {{ paginator.page }} 页 / 共 {{ paginator.total_pages }} 页</span>
-
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | relative_url }}">下一页 &raquo;</a>
   {% endif %}
 </div>
-<!-- 站内文章数量统计 -->
+
+<!-- 按年份归档 -->
+<h2>📅 按年份归档</h2>
+<ul>
+  {% assign years = site.posts | map: "date" | date: "%Y" | uniq | sort: "reverse" %}
+  {% for year in years %}
+    <li><a href="{{ site.baseurl }}/{{ year }}/">{{ year }} 年文章</a></li>
+  {% endfor %}
+</ul>
+
+<!-- 文章数量统计 -->
 <p style="text-align:center; font-size: 1.1rem; font-weight: bold; color: #333;">
   📚 当前站内已收录 <span style="color: #d35400;">{{ site.posts | size }}</span> 篇文章，欢迎阅读！
 </p>
-	<!-- 阅读量模拟功能 -->
+
+<!-- 阅读量模拟 -->
 <p id="view-counter" style="text-align:center; font-size: 1.1rem; font-weight: bold; color: #555;">
   📈 累计阅读量：<span id="view-number" style="color:#2ecc71;"></span> 次
 </p>
 
 <script>
-// 生成一个接近真实的随机数（设定初始阅读量 + 轻微浮动）
 document.addEventListener("DOMContentLoaded", function () {
-  const baseViews = 17600; // 初始基础阅读量
-  const fluctuation = Math.floor(Math.random() * 300); // 模拟随机浮动0~299
+  const baseViews = 17600;
+  const fluctuation = Math.floor(Math.random() * 300);
   const totalViews = baseViews + fluctuation;
-
-  document.getElementById("view-number").textContent = totalViews.toLocaleString(); // 加千分位
+  document.getElementById("view-number").textContent = totalViews.toLocaleString();
 });
 </script>
+
 <p style="text-align: center; font-size: 0.95rem; color: #888;">
   自站点上线以来，每一次点击，都是一次与新老游戏的重逢——感谢每位默默阅读的你。
 </p>
