@@ -1,9 +1,32 @@
 title: 我的博客
 description: WordPress 同步过来的文章
-# 如果你的项目托管在 https://github.com/719729765/sky/
-baseurl: "/sky"  # 必须和仓库名一致
-theme: minima    # 使用默认主题
-paginate: 30     # 每页显示 30 篇文章
-paginate_path: "/page:num"  # 分页路径
+# 项目托管地址
+baseurl: "/sky"        # 必须和仓库名一致
+theme: minima          # 使用默认主题
+
+# 插件列表（移除旧插件，换成 v2）
 plugins:
-  - jekyll-paginate          # 确保分页插件启用
+  - jekyll-paginate-v2
+
+# paginate-v2 配置
+pagination:
+  enabled: true
+  per_page: 30               # 每页显示文章数
+  permalink: '/page:num'     # 分页路径
+  title: ':title - 第:num页' # SEO 友好标题
+  sort_field: 'date'         # 按日期排序
+  sort_reverse: true         # 最新文章在前
+  trail:                     # 分页导航显示范围
+    before: 2
+    after: 2
+
+# Markdown & 语法高亮
+markdown: kramdown
+highlighter: rouge
+
+# 构建排除项
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
