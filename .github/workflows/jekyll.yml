@@ -2,8 +2,8 @@ name: Build Jekyll Site
 
 on:
   push:
-    branches: [ main ]  # 每次 push main 分支触发
-  workflow_dispatch:    # 也可以手动触发
+    branches: [ main ]
+  workflow_dispatch:
 
 jobs:
   build:
@@ -16,14 +16,16 @@ jobs:
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 3.2   # 你 Gemfile 指定版本
-        bundler-cache: true  # 自动缓存依赖
+        ruby-version: 3.4.5
+        bundler-cache: true
 
     - name: Install dependencies
       run: bundle install
 
     - name: Build site with Jekyll
-      run: bundle exec jekyll build
+      run: bundle exec jekyll build --config _config.yml
+      env:
+        JEKYLL_ENV: production
 
     - name: Deploy to gh-pages
       uses: peaceiris/actions-gh-pages@v6
