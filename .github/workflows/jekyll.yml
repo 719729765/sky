@@ -1,0 +1,33 @@
+name: Build Jekyll Site
+
+on:
+  push:
+    branches: [ main ]  # 每次 push main 分支触发
+  workflow_dispatch:    # 也可以手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 3.2   # 你 Gemfile 指定版本
+        bundler-cache: true  # 自动缓存依赖
+
+    - name: Install dependencies
+      run: bundle install
+
+    - name: Build site with Jekyll
+      run: bundle exec jekyll build
+
+    - name: Deploy to gh-pages
+      uses: peaceiris/actions-gh-pages@v6
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./_site
+        publish_branch: gh-pages
