@@ -1,0 +1,47 @@
+---
+title: "幸运之杖R2 湮没于时空中的默示录 wand of fortune R2|官方中文|NSZ|原版|"
+date: 2024-12-07
+tags: ["少女", "生存"]
+categories: ["Switch中文"]
+excerpt: "以我心中的苦與痛，作為生存的食糧—— 主人公們從前作歡樂的學院生活，猝不及防地穿越到古代世界。 『Wand of Fortune』系列第二部作品『Wand of Fortune R2』，將推出亞洲繁體中文版，本作追加新登場可攻略角色！ 凡魔法師皆有屬性，唯獨少女露露是「無屬性」。 她幾經周折，成為第&hellip;"
+layout: post
+---
+
+<img class="aligncenter size-full wp-image-98249" src="https://sky.sfcrom.com/wp-content/uploads/2024/12/2024121008514962.webp" alt="" width="1000" height="562" />
+
+以我心中的苦與痛，作為生存的食糧——
+主人公們從前作歡樂的學院生活，猝不及防地穿越到古代世界。
+『Wand of Fortune』系列第二部作品『Wand of Fortune R2』，將推出亞洲繁體中文版，本作追加新登場可攻略角色！
+
+凡魔法師皆有屬性，唯獨少女露露是「無屬性」。
+她幾經周折，成為第一個獲得「全屬性」的人類後不久——
+就在她和同伴們拍照紀念的瞬間，魔法突然失控，
+露露正欲阻止，卻因強烈的衝擊波而昏迷。
+
+她醒來時，身旁有位陌生的青年。
+聽了露露一行人的遭遇，他笑著說道——
+
+「歡迎你們，未來的訪客。這裡是你們本不存在的世界。」
+
+露露一行人誤入的地方，
+竟是從他們所生活的時代上溯350多年的古代世界——
+※說明文為廠商提供。
+
+&nbsp;
+
+<strong>系统要求:19.0.1</strong>
+
+<strong>解压密码:laoquzhang.com</strong>
+
+<strong>[content_hide]
+</strong>
+
+链接: <a href="https://pan.baidu.com/s/1LHldgu6hegpvyZdiXKmNFg">https://pan.baidu.com/s/1LHldgu6hegpvyZdiXKmNFg</a>
+
+提取码: zt23
+
+<strong>
+[/content_hide]</strong>
+
+---
+📖 **下载地址/原文地址：** 本文最初发布于我的博客网站：[https://sky.sfcrom.com/2024/12/96918](https://sky.sfcrom.com/2024/12/96918)

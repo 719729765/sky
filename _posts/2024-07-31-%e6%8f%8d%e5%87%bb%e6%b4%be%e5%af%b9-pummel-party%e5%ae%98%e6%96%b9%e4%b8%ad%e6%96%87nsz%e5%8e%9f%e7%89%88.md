@@ -1,0 +1,15 @@
+---
+title: "揍击派对 Pummel Party|官方中文|NSZ|原版|"
+date: 2024-07-31
+tags: ["战斗", "派对"]
+categories: ["Switch中文"]
+excerpt: "揍击派对 Pummel Party 《Pummel Party》是一款支持 4-8 位玩家的在线和本地多人派对游戏。Pummel 好友或 AI 可以在图板模式下使用各种各样荒唐爆笑的物品，在独特的迷你游戏合集中相互竞争，摧毁友谊。 在线和本地多人游戏 随心所欲地游戏。《Pummel Party》允许&hellip;"
+layout: post
+---
+
+ <p><img src="https://sky.sfcrom.com/wp-content/uploads/2024/07/20240731_66aa52183fa8d.webp" alt="揍击派对 Pummel Party|官方中文|NSZ|原版|" style="display:block; margin-left:auto; margin-right:auto;width:100%;height:auto;" /><br /> <img src="https://sky.sfcrom.com/wp-content/uploads/2024/07/20240731_66aa5218724c8.webp" alt="揍击派对 Pummel Party|官方中文|NSZ|原版|" style="display:block; margin-left:auto; margin-right:auto;width:100%;height:auto;" /><br /> <img src="https://sky.sfcrom.com/wp-content/uploads/2024/07/20240731_66aa5218ae6d2.webp" alt="揍击派对 Pummel Party|官方中文|NSZ|原版|" style="display:block; margin-left:auto; margin-right:auto;width:100%;height:auto;" /><br /> <img src="https://sky.sfcrom.com/wp-content/uploads/2024/07/20240731_66aa5218dcb45.webp" alt="揍击派对 Pummel Party|官方中文|NSZ|原版|" style="display:block; margin-left:auto; margin-right:auto;width:100%;height:auto;" /><br /> <img src="https://sky.sfcrom.com/wp-content/uploads/2024/07/20240731_66aa52191737e.webp" alt="揍击派对 Pummel Party|官方中文|NSZ|原版|" style="display:block; margin-left:auto; margin-right:auto;width:100%;height:auto;" /><br /> <img src="https://sky.sfcrom.com/wp-content/uploads/2024/07/20240731_66aa521951346.webp" alt="揍击派对 Pummel Party|官方中文|NSZ|原版|" style="display:block; margin-left:auto; margin-right:auto;width:100%;height:auto;" /><br /> <img src="https://sky.sfcrom.com/wp-content/uploads/2024/07/20240731_66aa52198507a.webp" alt="揍击派对 Pummel Party|官方中文|NSZ|原版|" style="display:block; margin-left:auto; margin-right:auto;width:100%;height:auto;" /><br /> <img src="https://sky.sfcrom.com/wp-content/uploads/2024/07/20240731_66aa5219b2a7e.webp" alt="揍击派对 Pummel Party|官方中文|NSZ|原版|" style="display:block; margin-left:auto; margin-right:auto;width:100%;height:auto;" /></p> <p>揍击派对 Pummel Party</p> <p>《Pummel Party》是一款支持 4-8 位玩家的在线和本地多人派对游戏。Pummel 好友或 AI 可以在图板模式下使用各种各样荒唐爆笑的物品，在独特的迷你游戏合集中相互竞争，摧毁友谊。<br /> 在线和本地多人游戏<br /> 随心所欲地游戏。《Pummel Party》允许 1 到 8 位玩家彼此竞争，既可以在线也可以在本地的同一块屏幕上。无论是在线还是当面，这款游戏都充满了友尽的乐趣。</p> <p>&nbsp;</p> <p>图板模式<br /> 只能有一个赢家，你知道非你莫属！战斗通过危险的地形，获取和使用大量武器和物品，以确保战胜你的好友。</p> <p>&nbsp;</p> <p>物品<br /> 战争已经打响！使用一系列荒唐的武器和物品来夺取胜利。从简单的“拳套”到爆笑的“遥控茄子”，《Pummel Party》中的物品会带来许多搞笑和愤怒的时刻。要粉碎你朋友赢得胜利的愿望，从未如此简单、让人满意。<br /> 迷你游戏<br /> 从简单的怀旧乐趣到独特而先进的《Pummel Party》，它包含许多激动人心的迷你游戏。在“雪山旋转”中，将你的好友打下深渊，在“沙里淘金”中进行三维挖掘以首先找到宝藏，并确保在“击鼓传弹”中当炸弹传到你手中时没有爆炸。<br /> 迷你游戏模式<br /> 只想立即开玩？《Pummel Party》包含迷你游戏模式，让你可以直接开始游戏！<br /> 机器人<br /> 你和好友已经友尽，还是队伍中缺人？《Pummel Party》集成了完整的机器人功能，你仍然可以跟任意数量的真实玩家一起游玩或练习。</p> <p>&nbsp;</p> <p><strong>系统要求:18.0.1</strong></p> <p><strong>解压密码:laoquzhang.com</strong></p> <p><strong>[content_hide]
+链接1
+[/content_hide]
+
+---
+📖 **下载地址/原文地址：** 本文最初发布于我的博客网站：[https://sky.sfcrom.com/2024/07/60421](https://sky.sfcrom.com/2024/07/60421)
