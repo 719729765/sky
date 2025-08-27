@@ -4,11 +4,11 @@ description: WordPress 同步过来的文章
 baseurl: "/sky"        # 必须和仓库名一致
 theme: minima          # 使用默认主题
 
-# 插件列表（移除旧插件，换成 v2）
+# 插件列表（使用分页 v2）
 plugins:
   - jekyll-paginate-v2
 
-# paginate-v2 配置
+# paginate-v2 全局配置
 pagination:
   enabled: true
   per_page: 30               # 每页显示文章数
@@ -30,3 +30,11 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
+
+# 可选：默认分页首页模板
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
